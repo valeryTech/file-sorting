@@ -76,7 +76,7 @@ public class Conveyor<T>{
         }catch (ClassCastException e){
             LOGGER.log(Level.SEVERE, "Cannot compare elements", e);
         }
-        data.forEach(System.out::println);
+        
     }
 
     public static void main(String[] args) {
