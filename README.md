@@ -2,7 +2,7 @@
 The test task for CFT school of Java (http://start.cft.ru/.) is done by mail@valery.tech.
 
 Class to run is Conveyor which uses Options class as a place 
-to keep all current settings. Options.process does all neccessary steps 
+to keep all current settings. Conveyor.process does all neccessary steps 
 for sorting input data. 
 
 There is jar (file-sorting-1.0.jar) builded for GNU/Debian in build/libs. 
